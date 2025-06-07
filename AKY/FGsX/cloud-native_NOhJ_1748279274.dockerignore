@@ -1,4 +1,0 @@
-dist/
-!dist/**/traefik
-vendor/
-.idea/
